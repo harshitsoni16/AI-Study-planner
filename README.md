@@ -1,7 +1,9 @@
 AI Study Planner
+
 What this project does
 
-AI Study Planner is a simple Python program that helps students decide what to study first. It takes input like subject name, deadline, importance, and difficulty, then gives a clear priority for each subject. Instead of random planning, it uses basic logic to suggest a realistic study order.
+AI Study Planner is a simple Python program that helps students decide what to study first. 
+It takes input like subject name, deadline, importance, and difficulty,then gives a clear priority for each subject. Instead of random planning, it uses basic logic to suggest a realistic study order.
 
 How to set it up
 Make sure Python is installed on your system (Python 3 recommended).
