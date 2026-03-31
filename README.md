@@ -16,15 +16,25 @@ Open a terminal or command prompt in the project folder.
 Run the file using the command:
 
 python filename.py
+
 How to use it
+
 Run the program.
+
 Enter the number of subjects you want to plan for.
+
 For each subject, enter:
+
 Subject name
+
 Deadline (near/far)
+
 Importance (high/low)
+
 Difficulty (easy/medium/hard)
+
 After entering all details, the program will display a study plan.
+
 
 Output
 
