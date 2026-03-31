@@ -6,8 +6,11 @@ AI Study Planner is a simple Python program that helps students decide what to s
 It takes input like subject name, deadline, importance, and difficulty,then gives a clear priority for each subject. Instead of random planning, it uses basic logic to suggest a realistic study order.
 
 How to set it up
+
 Make sure Python is installed on your system (Python 3 recommended).
+
 Download or copy the project file (.py file).
+
 Open a terminal or command prompt in the project folder.
 
 Run the file using the command:
@@ -22,6 +25,7 @@ Deadline (near/far)
 Importance (high/low)
 Difficulty (easy/medium/hard)
 After entering all details, the program will display a study plan.
+
 Output
 
 The program shows:
